@@ -33,6 +33,10 @@ El entorno consta de tres zonas de red conectadas a las tres interfaces (tarjeta
     - **Servidor Web:** Contenedor Docker (Nginx) con IP `10.10.10.10`.
     - **Función:** Alojamiento del servicio web público.
      <img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/a617654c-e97f-4490-bc79-689de9f607ac" />
+
+- **Tabla de Direccionamiento**
+  <img width="1472" height="582" alt="image" src="https://github.com/user-attachments/assets/89452c16-9802-4468-99a6-8d852c46e720" />
+
      ## 4. Proceso de Implementación Técnica
 
 ### Fase 1: Configuración Base de Nodos y Enrutamiento
