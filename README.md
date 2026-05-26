@@ -1,4 +1,3 @@
-# DMZ-con-GNS3
 # Laboratorio: Despliegue de Seguridad Perimetral y DMZ con pfSense en GNS3
 
 ## 1. **Objetivo del Laboratorio**
