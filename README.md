@@ -37,7 +37,7 @@ El entorno consta de tres zonas de red conectadas a las tres interfaces (tarjeta
 - **Tabla de Direccionamiento**
   <img width="1472" height="582" alt="image" src="https://github.com/user-attachments/assets/89452c16-9802-4468-99a6-8d852c46e720" />
 
-     ## 4. Proceso de Implementación Técnica
+## 4. Proceso de Implementación Técnica
 
 ### Fase 1: Configuración Base de Nodos y Enrutamiento
 
